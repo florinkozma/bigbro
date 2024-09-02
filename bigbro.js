@@ -1,1 +1,1 @@
-var test
+$('body').remove()
